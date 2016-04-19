@@ -2,7 +2,7 @@
 function dismiss() {
 	$servername = "localhost";
 	$username = "root";
-	$password = "j720b@RJb";
+	$password = "password";
 	$database = "lightstats";
 
 	$conn = new mysqli($servername, $username, $password, $database);
