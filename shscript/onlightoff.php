@@ -1,7 +1,7 @@
 <?php
 $server = "localhost";
 $username = "root";
-$password = "j720b@RJb";
+$password = "password";
 $database = "lightstats";
 $table = "lighttime";
 
