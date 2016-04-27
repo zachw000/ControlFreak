@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "j720b@RJb", "lightstats");
+$conn = mysqli_connect("localhost", "root", "password", "lightstats");
 
 if ($conn->connect_error) {
 	echo "Connection Failed: " . $conn->connect_error;
